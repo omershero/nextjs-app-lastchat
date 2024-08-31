@@ -1,4 +1,4 @@
-# NextJS Chat Tutorial
+
 
 <img 
     src="https://raw.githubusercontent.com/alamorre/nextjs-chat-app/main/assets/nextjs-chat-tutorial.png" 
